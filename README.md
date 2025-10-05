@@ -115,5 +115,5 @@ Feel free to fork the repository, make enhancements, and submit pull requests.
 - Inspired by operating system scheduling concepts.
 - Educational purpose: Demonstrating various CPU scheduling algorithms.
 
-**Author:** Priyanshu Tiwari  
-**College:** NIT Silchar 🎓
+**Author:** **Samir**
+**College:** **NIT Silchar** 🎓
