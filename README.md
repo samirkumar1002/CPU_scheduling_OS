@@ -116,4 +116,5 @@ Feel free to fork the repository, make enhancements, and submit pull requests.
 - Educational purpose: Demonstrating various CPU scheduling algorithms.
 
 **Author:** **Samir**
+
 **College:** **NIT Silchar** 🎓
