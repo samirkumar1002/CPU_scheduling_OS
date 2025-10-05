@@ -114,3 +114,6 @@ Feel free to fork the repository, make enhancements, and submit pull requests.
 ## Acknowledgments
 - Inspired by operating system scheduling concepts.
 - Educational purpose: Demonstrating various CPU scheduling algorithms.
+
+**Author:** Priyanshu Tiwari  
+**College:** NIT Silchar 🎓
